@@ -1,0 +1,25 @@
+{
+  "parts_dir": "parts",
+  "hierarchy": {
+    "torso": {
+      "image": "torso.png",
+      "pivot": [64, 96],
+      "children": {
+        "head": {
+          "image": "head.png",
+          "pivot": [32, 32]
+        },
+        "left_arm": {
+          "image": "left_arm.png",
+          "pivot": [16, 16],
+          "attach": [16, 48]
+        },
+        "right_arm": {
+          "image": "right_arm.png",
+          "pivot": [16, 16],
+          "attach": [112, 48]
+        }
+      }
+    }
+  }
+}

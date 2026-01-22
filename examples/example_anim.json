@@ -1,0 +1,23 @@
+{
+  "duration": 1.0,
+  "keyframes": [
+    {
+      "time": 0.0,
+      "poses": {
+        "torso": { "rotation": 0 },
+        "head": { "rotation": 0 },
+        "left_arm": { "rotation": -30 },
+        "right_arm": { "rotation": 30 }
+      }
+    },
+    {
+      "time": 1.0,
+      "poses": {
+        "torso": { "rotation": 0 },
+        "head": { "rotation": 5 },
+        "left_arm": { "rotation": 30 },
+        "right_arm": { "rotation": -30 }
+      }
+    }
+  ]
+}
